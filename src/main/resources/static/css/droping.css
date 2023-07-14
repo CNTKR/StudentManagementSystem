@@ -1,0 +1,31 @@
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-logo {
+  cursor: pointer;
+}
+.body{
+    background-color:whitesmoke;
+    text-align: center;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navl{
+	background-color: yellow;
+	text-align: left;
+}
+.form{
+    background-color: gray;
+}
+.button{
+   border: 0.5rem outset pink;
+  outline: 0.5rem solid khaki;
+  border-radius: 12px;
+  background-color: black;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+  padding: 1rem;
+  outline-offset: 0.5rem;
+}
